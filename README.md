@@ -36,7 +36,7 @@
 
 | 분류 | 기술 |
 |------|------|
-| **언어** | TypeScript / JavaScript |
+| **언어** | JavaScript / TypeScript |
 | **프레임워크** | React 18 |
 | **빌드 도구** | Vite / Create React App |
 | **상태 관리** | Zustand / Redux Toolkit |
